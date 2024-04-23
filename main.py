@@ -1,4 +1,4 @@
-# main.py
+# main.pytest
 
 def main():
     print("Hello, GitHub! Welcome to version control.")
